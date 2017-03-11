@@ -9,5 +9,5 @@ Describes a programmable way to visualise the following major CPU Scheduling Alg
 
 This requires a process.txt to be populated in the following format:
 
-         <i>P1 0 5</i>
+         P1 0 5
 Here P1 is the process name, 0 is the start time, 5 is the duration of the process.
